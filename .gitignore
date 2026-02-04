@@ -1,0 +1,6 @@
+# Ignore all Markdown files
+*.md  
+# Ignore environment configuration files 
+*.env 
+# Ignore log files 
+*.log  
