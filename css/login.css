@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    background-color: #3d88cf;
+    height: 100px;
+  
+}
+.container div{
+    margin: auto;
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    background-color: skyblue;
+    color: red;
+    text-align: center;
+
+}
