@@ -1,11 +1,13 @@
 .container {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     background-color: #3d88cf;
     height: 100px;
   
 }
 .container div{
-    margin: auto;
+    margin: 10px;
     padding: 10px;
     width: 200px;
     height: 50px;
